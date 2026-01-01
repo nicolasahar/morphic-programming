@@ -1289,7 +1289,6 @@ A few areas I'm thinking of exploring further in future entries. I would also lo
 **I want your feedback** - What worked? What didn't? What did I miss? What should I cover next?
 
 **Connect with me:**
-- Email: nicola.sahar@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/nicolasahar/](https://www.linkedin.com/in/nicolasahar/)
 - Google Scholar: [https://scholar.google.com/citations?user=CEG32p4AAAAJ&hl=en](https://scholar.google.com/citations?user=CEG32p4AAAAJ&hl=en)
 - GitHub: [https://github.com/nicolasahar](https://github.com/nicolasahar)
