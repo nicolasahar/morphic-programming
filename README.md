@@ -6,7 +6,7 @@ By Nicola Sahar
 
 A free manual on first principles for building useful AI systems with CLI agents like Claude Code.
 
-Inspired by [Andrej Karpathy's tweet](https://x.com/karpathy/status/2004607146781278521) on Dec 26, 2024:
+Inspired by [Andrej Karpathy's tweet](https://x.com/karpathy/status/2004607146781278521) on Dec 26, 2025:
 
 > "I've never felt this much behind as a programmer. The profession is being dramatically refactored as the bits contributed by the programmer are increasingly sparse and between. I have a sense that I could be 10X more powerful if I just properly string together what has become available over the last ~year and a failure to claim the boost feels decidedly like skill issue. There's a new programmable layer of abstraction to master (in addition to the usual layers below) involving agents, subagents, their prompts, contexts, memory, modes, permissions, tools, plugins, skills, hooks, MCP, LSP, slash commands, workflows, IDE integrations, and a need to build an all-encompassing mental model for strengths and pitfalls of fundamentally stochastic, fallible, unintelligible and changing entities suddenly intermingled with what used to be good old fashioned engineering. Clearly some powerful alien tool was handed around except it comes with no manual and everyone has to figure out how to hold it and operate it, while the resulting magnitude 9 earthquake is rocking the profession. Roll up your sleeves to not fall behind."
 
