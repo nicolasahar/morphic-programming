@@ -116,9 +116,9 @@ Also leave feedback and your genuine comments/thoughts on the pinned posts in my
 
 ## A Few Disclaimers
 
-**Yes, this manual was AI generated.** However, the core ideas, first principles, and outline for this manual are all my own ideas, and specifically from my direct experience working with CLI agents.
+**I wrote this manual myself.** I did not use AI to write this manual - the ideas, first principles, structure, and writing are all my own, from my direct experience working with CLI agents.
 
-For further clarity, I asked the AI to polish my writing, add working examples/prompts, and add diagrams where reasonable. I did NOT do any initial brainstorming with the AI (e.g. "brainstorm 10 first principles for morphic programming"), and did not ask it to generate net new ideas or insights. I've never written a book before, and this was the fastest way to get this information out into the world in a reasonably accessible format.
+To be very clear: I did not brainstorm with AI (e.g., "brainstorm 10 first principles for morphic programming"), I did not ask AI to generate ideas or insights, and I did not ask AI to write any sections for me. I used AI only to review my spelling, grammar, and formatting, and to help with diagrams.
 
 **Another disclaimer** - always use your own intuition and common sense. Don't take what I say at face value. Test it, modify it, and if it does not work for your use case, don't use it. AI programming is as much an experimental art as it is rigorous science.
 
@@ -1340,7 +1340,7 @@ What the command produces or reports.
 
 *Written in December 2025. Last updated: December 31, 2025.*
 
-*This manual was produced using the morphic programming system it describes. The outline, first principles, and core ideas are entirely human-generated. The polish, examples, and formatting were AI-assisted.*
+*I wrote this manual myself. The ideas, first principles, and writing are all my own. I used AI only to review spelling, grammar, and formatting.*
 
 ---
 

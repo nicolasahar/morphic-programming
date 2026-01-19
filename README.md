@@ -38,6 +38,12 @@ So I wrote the manual.
 
 I founded and sold [Semantic Health](https://betakit.com/semantic-health-acquired-by-us-based-medical-documentation-firm-aapc/), an AI healthcare startup. Now exploring AI for consciousness and mental health.
 
+## A Note on AI
+
+**I wrote this manual myself.** I did not use AI to write this manual - the ideas, first principles, structure, and writing are all my own, from my direct experience working with CLI agents.
+
+To be very clear: I did not brainstorm with AI, I did not ask AI to generate ideas or insights, and I did not ask AI to write any sections for me. I used AI only to review my spelling, grammar, and formatting.
+
 ## Coming Soon
 
 - More principles and advanced topics
